@@ -1,0 +1,87 @@
+
+#page-center {
+	text-align: center;
+	margin-top: 7em;
+}
+
+h3 {
+	font-weight: bold;
+	font-family: helvetica;
+	line-height: 120%;
+	font-weight: bold;
+
+}
+
+.index-menu {
+	border-color: rgb(68,114,196);
+	border-style: solid;
+	border-width: .2em;
+	color: white;
+	padding: .5em;
+	padding-left: 2.5em;
+	padding-right: 2.5em;
+	height:3em;
+	width:12em;
+	background-color: rgb(68,114,196);
+	border-radius: 16px;
+	box-shadow: none;
+	font-family: helvetica;
+	font-size:1em;
+	font-weight:bold;
+		}
+.index-menu:visited {
+	text-decoration: none
+}
+.index-menu:hover {
+	color: rgb(68,114,196);
+	background-color:white;
+	text-decoration: none;
+}
+.index-menu:active {
+	text-decoration:none;
+}
+
+h2 {
+	font-color: rgb(68,114,196);
+	color:rgb(68,114,196);
+	font-family: helvetica;
+	text-align:left;
+}
+
+.team-name {
+	color: rgb(68,114,196);
+}
+
+.team-info {
+	color:gray;
+}
+
+p {
+	color:gray;
+	font-size:1.5em;
+}
+
+.page-heading {
+	margin-top:2em;
+	color:rgb(68,114,196);
+	text-align: center;
+}
+
+#navbar-bg-format {
+	background-color: rgb(68,114,196);
+	color:rgb(68,114,196);
+}
+#navbar-link-format {
+	color:white;
+	font-weight:bold;
+	font-family: helvetica;
+}
+
+#page-heading-device {
+	text-align:left;
+}
+
+#container-format {
+	margin-left:5em;
+	margin-right:5em;
+}
